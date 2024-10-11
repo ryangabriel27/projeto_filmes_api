@@ -1,44 +1,36 @@
 {
-    "filmes": [
-      {
-        "id": "cd68",
-        "nome": "Os Vingadores",
-        "categoria": "Acao",
-        "duracao": 143,
-        "ano": 2012,
-        "classificacao": 9
-      },
-      {
-        "id": "bbec",
-        "nome": "Harry Potter e a Pedra Filosofal",
-        "categoria": "Fantasia",
-        "duracao": 152,
-        "ano": 2001,
-        "classificacao": 10
-      },
-      {
-        "id": "ce65",
-        "nome": "Esposa de Mentirinha",
-        "categoria": "Comedia/Romance",
-        "duracao": 117,
-        "ano": 2011,
-        "classificacao": 12
-      },
-      {
-        "id": "b0e7",
-        "nome": "Gente Grande 2",
-        "categoria": "Comedia",
-        "duracao": 101,
-        "ano": 2013,
-        "classificacao": 11
-      },
-      {
-        "id": "5c6c",
-        "nome": "Bad Boys IV",
-        "categoria": "Ação",
-        "duracao": 150,
-        "ano": 2024,
-        "classificacao": 10
-      }
-    ]
-  }
+  "filmes": [
+    {
+      "id": "cd68",
+      "nome": "Os Vingadores",
+      "categoria": "Acao",
+      "duracao": 143,
+      "ano": 2012,
+      "classificacao": 9
+    },
+    {
+      "id": "bbec",
+      "nome": "Harry Potter e a Pedra Filosofal",
+      "categoria": "Fantasia",
+      "duracao": 152,
+      "ano": 2001,
+      "classificacao": 10
+    },
+    {
+      "id": "b0e7",
+      "nome": "Gente Grande 2",
+      "categoria": "Comedia",
+      "duracao": 101,
+      "ano": 2013,
+      "classificacao": 11
+    },
+    {
+      "id": "5c6c",
+      "nome": "Bad Boys IV",
+      "categoria": "Ação",
+      "duracao": 150,
+      "ano": 2024,
+      "classificacao": 10
+    }
+  ]
+}
